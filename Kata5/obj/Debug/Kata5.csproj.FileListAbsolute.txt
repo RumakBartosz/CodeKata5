@@ -1,0 +1,7 @@
+C:\Users\mion\Source\Repos\Kata5\Kata5\bin\Debug\Kata5.exe.config
+C:\Users\mion\Source\Repos\Kata5\Kata5\bin\Debug\Kata5.exe
+C:\Users\mion\Source\Repos\Kata5\Kata5\bin\Debug\Kata5.pdb
+C:\Users\mion\Source\Repos\Kata5\Kata5\obj\Debug\Kata5.csprojAssemblyReference.cache
+C:\Users\mion\Source\Repos\Kata5\Kata5\obj\Debug\Kata5.csproj.CoreCompileInputs.cache
+C:\Users\mion\Source\Repos\Kata5\Kata5\obj\Debug\Kata5.exe
+C:\Users\mion\Source\Repos\Kata5\Kata5\obj\Debug\Kata5.pdb
